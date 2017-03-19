@@ -1,11 +1,4 @@
 import java.text.DecimalFormat;
- /**
- * Computes a hexagonal prism's information.
- * Project 8.
- *
- * @author Amber Jackson
- * @version 03-21-2016
- */
 
 public class HexagonalPrism {
   // Fields - instance variables  
