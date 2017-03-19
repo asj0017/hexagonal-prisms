@@ -3,14 +3,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
- /**
- * Stores the name of a list and an array of HexagonalPrism objects.
- * Project 8.
- *
- * @author Amber Jackson
- * @version 03-21-2016
- */
-
 public class HexagonalPrismList2 {
 
    private String name;
