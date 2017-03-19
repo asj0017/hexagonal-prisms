@@ -1,18 +1,10 @@
 import java.util.Scanner;
 import java.io.IOException;
 
-/**
- * Allows the user to decide what happens to an array of prisms.
- * Project 8.
- *
- * @author Amber Jackson
- * @version 03-21-2016
- */
 public class HexagonalPrismList2MenuApp
 {
 /**
  * 
- * @param args - is not used.
  * @throws IOException from scanning input file.
  */
    public static void main(String[] args) throws IOException
